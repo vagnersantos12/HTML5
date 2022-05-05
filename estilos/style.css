@@ -4,13 +4,13 @@
 }
 
 body {
-  background-color: aliceblue;
+  background-color: rgb(239, 248, 255);
 }
 
 main {
-  background-color: aliceblue;
-  whidth: 500px
+  background-color: rgb(14, 104, 182);
+  whidth: 500px;
   margin: auto;
   padding: 10px;
-  box-shadow: 3px 3px 5px color:blank;
+  box-shadow: 3px 3px 5px rgb(0, 0, 0.473);
 }
